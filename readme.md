@@ -1,4 +1,6 @@
 # Bird Image Classification
+## Link to our powerpoint presentation
+[Bird Classification Presentation](https://docs.google.com/presentation/d/1-EOJnKinefimgl_6bnfxJHy9_EbXS2t2DOmokbEqcJE/edit#slide=id.ge6ef474128_2_75)
 ## Overview
 Bird conservation is a field in the science of conservation biology related to threatened birds. Humans have had a profound effect on many bird species. Over one hundred species have gone extinct in historical times, although the most dramatic human-caused extinctions occurred in the Pacific Ocean as humans colonised the islands of Melanesia, Polynesia and Micronesia, during which an estimated 750–1,800 species of birds became extinct. According to Worldwatch Institute, many bird populations are currently declining worldwide with 1,200 species facing extinction in the next century.
 
